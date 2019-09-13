@@ -1,0 +1,15 @@
+EMPNO,ENAME,INIT,JOB,MGR,BDATE,MSAL,COMM,DEPTNO,DEPARTMENTS_DEPTNO,SALGRADES_GRADE,EMPLOYEES_EMPNO
+"7369","SMITH","N","TRAINER","7902","17/12/1965 00:00:00","800",null,"20",null,null,null
+"7499","ALLEN","JAM","SALESREP","7698","20/02/1961 00:00:00","1600","300","30",null,null,null
+"7521","WARD","TF","SALESREP","7698","22/02/1962 00:00:00","1250","500","30",null,null,null
+"7566","JONES","JM","MANAGER","7839","23/02/1962 00:00:00","1600",null,"20",null,null,null
+"7654","MARTIN","P","SALESREP","7698","24/02/1962 00:00:00","1600","1400","30",null,null,null
+"7698","BLAKE","R","MANAGER","7839","25/02/1962 00:00:00","1600",null,"20",null,null,null
+"7782","CLARK","AB","MANAGER","7839","26/02/1962 00:00:00","1600",null,"20",null,null,null
+"7788","SCOTT","SCJ","TRAINER","7566","27/02/1962 00:00:00","1600",null,"20",null,null,null
+"7839","KING","CC","DIRECTOR",null,"28/02/1962 00:00:00","1600",null,"30",null,null,null
+"7844","TURNER","JJ","SALESREP","7698","29/03/1962 00:00:00","1600","0","20",null,null,null
+"7876","ADMAS","AA","TRAINER","7788","22/02/1962 00:00:00","1600",null,"30",null,null,null
+"7900","JONES","R","ADMIN","7698","15/02/1962 00:00:00","1600",null,"20",null,null,null
+"7902","FORD","MG","TRAINER","7566","15/02/1962 00:00:00","1600",null,"20",null,null,null
+"7934","MILLER","TJA","ADMIN","7782","11/02/1962 00:00:00","1600",null,"30",null,null,null

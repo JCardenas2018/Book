@@ -1,0 +1,14 @@
+COURSE,BEGINDATE,TRAINER,LOCATION,COURSES_CODE,EMPLOYEES_EMPNO
+"ERM ","07/02/2000 00:00:00",null,null,null,null
+"JAV","13/12/1999 00:00:00","7566","SEATTLE",null,null
+"JAV","01/02/2000 00:00:00","7876","DALLAS",null,null
+"OAU","10/08/1999 00:00:00","7566","CHICAGO",null,null
+"OAU","06/02/2000 00:00:00","7902","DALLAS",null,null
+"PLS ","04/02/2000 00:00:00","7788","DALLAS",null,null
+"PRO ","08/02/2000 00:00:00",null,"DALLAS",null,null
+"RSD ","09/02/2000 00:00:00","7788","CHICAGO",null,null
+"SQL","12/04/1999 00:00:00","7902","DALLAS",null,null
+"SQL","04/10/1999 00:00:00","7369","SEATTLE",null,null
+"SQL","13/12/1999 00:00:00","7369","DALLAS",null,null
+"XML","05/02/2000 00:00:00",null,"SEATTLE",null,null
+"XML ","03/02/2000 00:00:00","7369","DALLAS",null,null

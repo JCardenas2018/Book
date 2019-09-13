@@ -1,0 +1,11 @@
+CODE,DESCRIPTION,CATEGORY,DURATION
+"ERM","Data modeling with ERM","DSG","3"
+"GEN","System generation","DSG","4"
+"JAV","Java for Oracle developers","BLD","4"
+"OAU","Oracle for application users","GEN","1"
+"PLS","Introduction to PL/SQL","BLD","1"
+"PMT","Process modeling techniques","DSG","1"
+"PRO","Prototyping","DSG","5"
+"RSD","Relational system design","DSG","2"
+"SQL","Introduction to SQL","GEN","4"
+"XML","XML for Oracle developers","BLD","2"
